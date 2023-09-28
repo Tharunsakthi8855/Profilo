@@ -1,6 +1,6 @@
 *{  
     font-family: 'Times New Roman', Times, serif;
-   background-color: rgb(126, 154, 206);
+   background-color: rgb(42, 188, 207);
 }
 .person{
     display: flex;
@@ -8,7 +8,7 @@
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color:rgb(126, 154, 206);
+    background-color:rgb(42, 188, 207);
     overflow: hidden;
   }
   
@@ -26,13 +26,13 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #20c7d3;
+    background-color: #0edb1f;
     color:#fff;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #441ada;
     color: white;
   }
  
@@ -41,5 +41,5 @@
     border-radius: 5px;
 padding:10px; 
 color: #fff;
-background-color: #16aa8a;
+background-color: #2225d4;
 }
